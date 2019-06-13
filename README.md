@@ -21,4 +21,4 @@ modify i2c-i801 driver
 ## References
 [CONFIG_I2C_I801](https://cateee.net/lkddb/web-lkddb/I2C_I801.html)
 
-[Itnel Platform Controller Hub](https://en.wikipedia.org/wiki/Platform_Controller_Hub)
+[Intel Platform Controller Hub](https://en.wikipedia.org/wiki/Platform_Controller_Hub)
